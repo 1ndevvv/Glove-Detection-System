@@ -1,0 +1,10 @@
+{
+  "filename": "warehouse_inspection_003.jpg",
+  "detections": [
+    {
+      "label": "gloved_hand",
+      "confidence": 0.76,
+      "bbox": [334, 178, 456, 298]
+    }
+  ]
+}

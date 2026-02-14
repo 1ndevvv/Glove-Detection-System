@@ -1,0 +1,15 @@
+{
+  "filename": "assembly_line_002.jpg",
+  "detections": [
+    {
+      "label": "gloved_hand",
+      "confidence": 0.88,
+      "bbox": [123, 89, 267, 234]
+    },
+    {
+      "label": "gloved_hand",
+      "confidence": 0.91,
+      "bbox": [445, 112, 589, 278]
+    }
+  ]
+}
